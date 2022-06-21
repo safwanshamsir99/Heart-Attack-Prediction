@@ -28,7 +28,7 @@ Model score:
 ## Discussion
 1. The best machine learning model achieved 85.7% accuracy during model testing. 
 2. Recall and f1 score report 93% and 89% respectively. 
-3. After the deployment of the Streamlit app, 10 new data inside the Assignment 1.pdf file were tested by key in the data needed, 8 over 10 data output were predicted correctly. The other two data that give the wrong outputs are the row of age 45 and age 69.
+3. After the deployment of the Streamlit app, 10 new data inside the Assignment 1.pdf file were tested by key in the data needed, 8 over 10 data outputs were predicted correctly. The other two data that give the wrong outputs are the row of age 45 and age 69.
 ![streamlit_heart](static/streamlit_heart.png)
 ![test_case](static/test_case.PNG)
 
