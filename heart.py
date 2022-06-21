@@ -82,7 +82,7 @@ def cramers_corrected_stat(confusion_matrix):
     return np.sqrt(phi2corr / min( (kcorr-1), (rcorr-1)))
 
 #%% STATIC
-CSV_PATH = os.path.join(os.getcwd(),'heart.csv')
+CSV_PATH = os.path.join(os.getcwd(),'dataset','heart.csv')
 BEST_PIPE_PATH = os.path.join(os.getcwd(),'heart_fine_tune.pkl')
 MODEL_PATH = os.path.join(os.getcwd(),'best_model_heart.pkl')
 
