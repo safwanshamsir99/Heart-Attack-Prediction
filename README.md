@@ -26,11 +26,13 @@ Model score:
 ![model_score](static/score_heart.PNG)
 
 ## Discussion
-1. The best machine learning model achieved 85.7% accuracy during testing. 
-2. Recall and f1 score report 93% and 89%. 
-3. After the deployment of the Streamlit app, 10 new data inside the Assignment 1.pdf file were tested by key in the data needed, 8 over 10 data output were predicted correctly. The other two data
+1. The best machine learning model achieved 85.7% accuracy during model testing. 
+2. Recall and f1 score report 93% and 89% respectively. 
+3. After the deployment of the Streamlit app, 10 new data inside the Assignment 1.pdf file were tested by key in the data needed, 8 over 10 data output were predicted correctly. The other two data that give a wrong output are the row of age 45 and age 69.
+
+![test_case](static/test_case.PNG)
 
 ## Credits:
-Shout out to Ankit152 for the IMDB Dataset. Check out the dataset by clicking the link below. :smile:
+Shout out to Rashik Rahman from Kaggle for the Heart Attack Prediction Dataset. Check out the dataset by clicking the link below. :smile:
 ### Dataset link
-[IMDB-Sentiment-Analysis](https://github.com/Ankit152/IMDB-sentiment-analysis)
+[Heart Attack Analysis & Prediction Dataset](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset)
