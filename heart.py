@@ -264,7 +264,10 @@ print('Accuracy score: ' + str(accuracy_score(y_true, y_pred)))
 
 #%% DISCUSSION
 '''
-
+The best model achieved 85.7% accuracy for testing process.
+Recall and f1 score report 93% adn 89% respectively.
+However, when the model is tested using other raw data from 
+Assignment 1.pdf file, 8 out of 10 data outputs were predicted correctly.
 '''
 
 
