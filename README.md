@@ -6,6 +6,7 @@
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 <a><img alt='streamlit' src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"></a>
 
+![model_loss](static/cvd.jpg)
 
 # Predictive Classification Model by Using Machine Learning Model Support Vector Classification (SVC) for Heart Attack Analysis.
  Using machine learning model to train over 300  Heart Attack Analysis and Prediction dataset to categorize either the person has a chance to get heart attack or not.
@@ -22,7 +23,9 @@
 [sklearn.svm.SVC](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)
 
 ## Results
-Model score:
+
+### Model score:
+
 ![model_score](static/score_heart.PNG)
 
 ## Discussion
